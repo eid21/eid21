@@ -1,4 +1,5 @@
 👋 Hi, I’m @eid21
+![code](https://github.com/user-attachments/assets/f47b8871-595f-43f8-a0cf-74679fd2757a)
 👀 I’m interested in Backend Development (PHP, Laravel), Software Development, Networking, and Cloud Technologies.
 🌱 I’m currently learning Advanced Laravel, React, Node.js, and Cloud Solutions.
 💞️ I’m looking to collaborate on Backend Projects, Open Source Contributions, and Software Development Challenges.
