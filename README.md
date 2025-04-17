@@ -168,8 +168,7 @@
 </div>
 
 <div align="center">
-  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eid21&layout=compact&hide_border=true&theme=tokyonight&title_color=FF2D20&text_color=FFFFFF&langs_count=8" alt="eid21's Top Languages" />
-  <img width="50%" height="200px" src="https://github-activity-graph.vercel.app/graph?username=eid21&bg_color=1a1b27&color=FFFFFF&line=FF2D20&point=FFFFFF&hide_border=true&radius=8" alt="eid21's Contribution Graph" />
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eid21&layout=compact&hide_border=true&theme=tokyonight&title_color=FF2D20&text_color=FFFFFF&langs_count=8" alt="eid21's Top Languages" />
 </div>
 
 
