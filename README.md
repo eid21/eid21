@@ -158,15 +158,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats & Contributions
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eid21&show_icons=true&theme=tokyonight&hide_border=true" alt="eid21's GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=eid21&theme=tokyonight&hide_border=true" alt="eid21's GitHub Streak" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=eid21&theme=tokyonight&column=7&no-frame=true&margin-w=15" alt="eid21's Trophies" />
 </div>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eid21&layout=compact&theme=tokyonight&hide_border=true" alt="eid21's Top Languages" />
+  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=eid21&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&icon_color=FF2D20&bg_opacity=10&ring_color=FF2D20&title_color=FF2D20" alt="eid21's GitHub Stats" />
+  <img width="49%" height="190px" src="https://github-readme-streak-stats.herokuapp.com/?user=eid21&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&fire=FF2D20&currStreakLabel=FF2D20" alt="eid21's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="44%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eid21&layout=compact&hide_border=true&theme=tokyonight&title_color=FF2D20&text_color=FFFFFF&langs_count=8" alt="eid21's Top Languages" />
+  <img width="54%" height="200px" src="https://github-activity-graph.vercel.app/graph?username=eid21&bg_color=1a1b27&color=FFFFFF&line=FF2D20&point=FFFFFF&hide_border=true&radius=8" alt="eid21's Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=eid21&style=for-the-badge&color=FF2D20" alt="Profile Views" />
 </div>
 
 ---
