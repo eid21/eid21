@@ -1,7 +1,7 @@
-<h1 align="center">Mohammed Eid | Backend Developer</h1>
+<h1 align="center">🚀 Mohammed Eid | Backend Developer 🚀</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f47b8871-595f-43f8-a0cf-74679fd2757a" alt="code" width="600"/>
+  <img src="https://github.com/user-attachments/assets/f47b8871-595f-43f8-a0cf-74679fd2757a" alt="code" width="700"/>
 </p>
 
 <p align="center">
