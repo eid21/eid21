@@ -165,9 +165,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eid21&layout=compact&theme=radical" alt="eid21's Most Used Languages"/>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=eid21&theme=radical&row=1&column=7" alt="eid21's Trophies" />
-</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eid21&theme=radical" alt="eid21's GitHub Streak Stats"/>
