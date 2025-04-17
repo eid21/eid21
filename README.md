@@ -71,7 +71,6 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />
         <img src="https://img.shields.io/badge/Algorithms-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Algorithms" />
         <img src="https://img.shields.io/badge/Data_Structures-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Data Structures" />
