@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Mohammed Eid 🚀</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F4F4F&center=true&vCenter=true&width=440&lines=Back-End+Engineer;Software+Engineer;Laravel+Developer;PHP+Developer;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=440&lines=Back-End+Engineer;Software+Engineer;Laravel+Developer;PHP+Developer;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
